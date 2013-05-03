@@ -1,6 +1,5 @@
-webpy_db
-========
+web.py db
 
-a simple python mysql db module from web_py db module
-test version
-by mqingyn
+a simple python mysql db module from web.py
+
+2013-05-03 :add python23.py
