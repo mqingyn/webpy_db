@@ -1,4 +1,4 @@
 web.py db
 
-a simple python mysql db module from web.py
+a simple python db module from web.py
 
